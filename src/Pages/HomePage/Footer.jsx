@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Heading, Image, Text } from "@chakra-ui/react";
+import { Box,  Flex, Heading, Image, Text } from "@chakra-ui/react";
 import React from "react";
 import foot from "../../Styles/Footer.module.css";
 import {
